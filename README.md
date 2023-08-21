@@ -7,7 +7,7 @@ Program Node.js ini otomatis mengirim pesan WhatsApp. Pengguna dapat segera meng
 
 2. **Klon Repositori**: Klon repositori dengan perintah:
    ```
-   git clone https://github.com/nama-username/repo-nama.git
+   https://github.com/syahrilakbar63/Chat-WA.git
    ```
 
 3. **Pemasangan Dependensi**: Masuk ke direktori repositori dan jalankan:
