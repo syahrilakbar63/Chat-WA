@@ -3,24 +3,34 @@ Program Node.js ini otomatis mengirim pesan WhatsApp. Pengguna dapat segera meng
 
 ## Langkah-Langkah Penginstalan
 
-1. **Persiapan**: Pastikan Node.js terinstal di komputer Anda.
+1. **Persiapan**:
 
-2. **Klon Repositori**: Klon repositori dengan perintah:
-   ```
+   Pastikan Node.js terinstal di komputer Anda.
+
+2. **Klon Repositori**:
+
+   Klon repositori dengan perintah:
+   ```bash
    git clone https://github.com/syahrilakbar63/Chat-WA.git
    ```
 
-3. **Pemasangan Dependensi**: Masuk ke direktori repositori dan jalankan:
-   ```
+3. **Pemasangan Dependensi**:
+
+   Masuk ke direktori repositori dan jalankan:
+   ```bash
    cd Chat-WA
    npm install axios
    ```
 
 4. **Jalankan Program**: Eksekusi dengan:
-   ```
+   ```bash
    node ChatWA.js
    ```
 
-5. **Ikuti Instruksi**: Pilih opsi pengiriman pesan yang diinginkan.
+5. **Ikuti Instruksi**:
 
-6. **Nikmati Otomatisasi**: Program akan membantu kirim pesan WhatsApp sesuai opsi yang Anda pilih. Sesuaikan kode bila perlu.
+   Pilih opsi pengiriman pesan yang diinginkan.
+
+6. **Nikmati Otomatisasi**:
+   
+7. Program akan membantu kirim pesan WhatsApp sesuai opsi yang Anda pilih. Sesuaikan kode bila perlu.
