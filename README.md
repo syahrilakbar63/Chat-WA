@@ -32,5 +32,5 @@ Program Node.js ini otomatis mengirim pesan WhatsApp. Pengguna dapat segera meng
    Pilih opsi pengiriman pesan yang diinginkan.
 
 6. **Nikmati Otomatisasi**:
-   
-7. Program akan membantu kirim pesan WhatsApp sesuai opsi yang Anda pilih. Sesuaikan kode bila perlu.
+
+   Program akan membantu kirim pesan WhatsApp sesuai opsi yang Anda pilih. Sesuaikan kode bila perlu.
