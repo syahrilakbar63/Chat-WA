@@ -19,6 +19,9 @@ Program Node.js ini otomatis mengirim pesan WhatsApp. Pengguna dapat segera meng
    Masuk ke direktori repositori dan jalankan:
    ```bash
    cd Chat-WA
+   ```
+
+   ```bash
    npm install axios
    ```
 
